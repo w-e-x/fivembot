@@ -1,11 +1,11 @@
 {
-  "//1": "Matthe Guard Bot",
+  "//1": "Red Bot",
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "Matthe Guard Bot",
-  "main": "jahky.js",
+  "description": "Red Bot",
+  "main": "wexris.js",
   "scripts": {
-    "start": "node jahky.js"
+    "start": "node wexris.js"
   },
   "dependencies": {
     "canvas": "^2.8.0",
