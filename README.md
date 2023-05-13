@@ -4,8 +4,7 @@ Bu proje eski ismiyle Red Bilişim adına 2021 yılında geliştirilmiştir.
 
 # Emeği Geçenler
 
-**wex#1111** ,
-**Dark.#0884**
+**wex#5222** 
 
 # Kurulum
 
